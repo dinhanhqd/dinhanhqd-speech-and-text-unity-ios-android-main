@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/.idea
+/captures
+gradle-wrapper.jar
+/captures/
+/gradlew
+/gradlew.bat
+GeneratedPluginRegistrant.java
+!*.jks
+/app/release/SpeechToTextPlugin.jar
